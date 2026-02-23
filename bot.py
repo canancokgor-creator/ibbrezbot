@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import re
 
 BOT_TOKEN = "5794911180:AAEkXt6D6O5S_q0d0_U75_qRGFJfDJrrru"
-CHAT_ID = "77398708593"
+CHAT_ID = "7739708593"
 
 TARGET_URL = "https://tesislerrezervasyon.ibb.istanbul/reservation/create/6"
 CHECK_INTERVAL = 60  # saniye
